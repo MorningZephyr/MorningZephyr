@@ -2,7 +2,7 @@
 
 I'm Zhen, a Computer Science and Mathematics student at Hunter College. 
 
-I recently attended my first Hackathon at [HunterHacks](https://hunterhacks.devpost.com/), where my team and I developed a web application to detect AI generated code, winning 1st place under the AI/ML track. Check out more details [here](https://github.com/MahinAshraful/CodeWatch)!
+I recently attended my first Hackathon at [HunterHacks](https://hunterhacks.devpost.com/), where my team and I developed a web application to detect AI generated code, winning 1st place under the AI/ML track. Check out more details [here](https://devpost.com/software/codewatch)!
 
 
 While my primary passion is artificial intelligence, I am also keenly interested in Fullstack Development. I'm driven by a curiosity to continuously learn and grow.
