@@ -39,7 +39,7 @@ While my primary passion is artificial intelligence, I am also keenly interested
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ## 📊 My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MorningZephyr&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MorningZephyr&theme=radical&date_format=M%20j%5B%2C%20Y%5D&timezone=America/New_York)](https://git.io/streak-stats)
 
 
 <!--
